@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@airstack/airstack-react": "^0.5.3",
+    "@airstack/node": "^0.0.5"
+  }
+}
